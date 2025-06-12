@@ -1,38 +1,55 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+     {
+      "question": "Soils containing large amount of Lumic materials are",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Neutral",
+        "b": "Basic",
+        "c": "Amphorteric",
+        "d": "Acidic"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Lumic materials influence pH but don't always make soil neutral.",
+        "b": "Not necessarily basic.",
+        "c": "Correct, Lumic materials can act as both acids and bases.",
+        "d": "Incorrect, not necessarily acidic."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "An example of soil sediment is",
+      "answers": {
+        "a": "NH₄⁺",
+        "b": "CaCO₃",
+        "c": "Pd",
+        "d": "NO₃⁻"
+      },
+      "explanations": {
+        "a": "Ammonium is a nutrient ion, not a sediment.",
+        "b": "Correct, CaCO₃ is a common soil sediment (lime).",
+        "c": "Palladium is not typically found in soils.",
+        "d": "Nitrate is a dissolved ion, not a sediment."
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Soil Electrical Conductivity is commonly expressed in",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Siemen",
+        "b": "millimhos per cm",
+        "c": "milli Siemens per meter",
+        "d": "ohms per meter"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect, 'Siemen' is not commonly used in this context.",
+        "b": "Correct, traditional unit for soil EC.",
+        "c": "Also used, but less commonly in soil science.",
+        "d": "Ohms per meter is a unit of resistance, not conductivity."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
