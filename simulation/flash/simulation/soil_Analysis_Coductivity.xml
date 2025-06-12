@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+<SCENE ID="1intro">
+	<TEXT ID="1intro_one">
+	<TEXTVALUE>Click on each apparatus/reagents to know its name or click on “Continue” to start the experiment.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="26picpaper">
+	<TEXT ID="26picpaper_one">
+	<TEXTVALUE>Place the butter paper into the balance and adjust the balance reading to 0.000.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="27weingbalance">
+	<TEXT ID="27weingbalance_one">
+	<TEXTVALUE>Place the butter paper into the balance and adjust the balance reading to 0.000.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="28pickcl">
+	<TEXT ID="28pickcl_one">
+	<TEXTVALUE>Using a spatula transfer some KCl into the butter paper, Transfer and weigh 7.4550 g KCl.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="29pickclpowder">
+	<TEXT ID="29pickclpowder_one">
+	<TEXTVALUE>Take the butter paper containing KCl.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="30addpowder">
+	<TEXT ID="30addpowder_one">
+	<TEXTVALUE>Transfer the KCl into a 100 mL standard flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="31distildwater">
+	<TEXT ID="31distildwater_one">
+	<TEXTVALUE>Add small amount of distilled water to it from the wash bottle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="32distildwaterpour">
+	<TEXT ID="32distildwaterpour_one">
+	<TEXTVALUE>Add small amount of distilled water to it from the wash bottle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="33pic">
+	<TEXT ID="33pic_one">
+	<TEXTVALUE>Shake well for dissolving KCl.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="34mix">
+	<TEXT ID="34mix_one">
+	<TEXTVALUE>Shake well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="35distildwater2">
+	<TEXT ID="35distildwater2_one">
+	<TEXTVALUE>Make up the solution using distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="36distildwaterpour2">
+	<TEXT ID="36distildwaterpour2_one">
+	<TEXTVALUE>Make up the solution using distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="37closecap">
+	<TEXT ID="37closecap_one">
+	<TEXTVALUE>Close the standard flask using lid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="38mixing">
+	<TEXT ID="38mixing_one">
+	<TEXTVALUE>Shake well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="39placestanderd">
+	<TEXT ID="39placestanderd_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="40bakerpic">
+	<TEXT ID="40bakerpic_one">
+	<TEXTVALUE>Take a 100 mL beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="41poringbeaker">
+	<TEXT ID="41poringbeaker_one">
+	<TEXTVALUE>Transfer 0.01 KCl solution from the standard flask into 100 mL beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="43picbeaker">
+	<TEXT ID="43picbeaker_one">
+	<TEXTVALUE>Take the beaker containing KCL solution and label as KCl.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="44picbeaker01">
+	<TEXT ID="44picbeaker01_one">
+	<TEXTVALUE>Take the beaker containing KCl solution and label as KCl.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="45condctmtr">
+	<TEXT ID="45condctmtr_one">
+	<TEXTVALUE>Switch on the conductivity meter. Place the beaker below the conductivity cell and dip the electrode into the solution.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="45condctmtr_two">
+	<TEXTVALUE>Adjust (Calibrate) the conductivity meter reading as 1412 µS/cm.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="46balnc">
+	<TEXT ID="46balnc_one">
+	<TEXTVALUE>Using spatula transfer some soil into the butter paper and weighed out 5 g soil.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="47Dropmad">
+	<TEXT ID="47Dropmad_one">
+	<TEXTVALUE>Using spatula transfer some soil into the butter paper and weighed out 5 g soil.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="48tirit">
+	<TEXT ID="48tirit_one">
+	<TEXTVALUE>Take the butter paper containing soil from the balance.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="49tirit">
+	<TEXT ID="49tirit_one">
+	<TEXTVALUE>Transfer the soil into the 100 mL beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="50tkwtr">
+	<TEXT ID="50tkwtr_one">
+	<TEXTVALUE>Add 25 mL distilled water into the soil.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="51pourwater">
+	<TEXT ID="51pourwater_one">
+	<TEXTVALUE>Add 25 mL distilled water into the soil.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="52tkrod">
+	<TEXT ID="52tkrod_one">
+	<TEXTVALUE>Take a glosse rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="53tkrod">
+	<TEXT ID="53tkrod_one">
+	<TEXTVALUE>And stirred well for about 5-10 minutes and is allowed to settle for half an hour.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="54tkwtrbkr">
+	<TEXT ID="54tkwtrbkr_one">
+	<TEXTVALUE>Transfer the distillate into another 100 mL beaker.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="55tkporit">
+	<TEXT ID="55tkporit_one">
+	<TEXTVALUE>Transfer the distillate into another 100 mL beaker and is used for conductivity measurements.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="56tkkcl">
+	<TEXT ID="56tkkcl_one">
+	<TEXTVALUE>Remove the beaker containing KCl.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="57placit">
+	<TEXT ID="57placit_one">
+	<TEXTVALUE></TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="58washit">
+	<TEXT ID="58washit_one">
+	<TEXTVALUE>Wash the electrode using distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="59tkwtswater">
+	<TEXT ID="59tkwtswater_one">
+	<TEXTVALUE>Take the 100 mL beaker containing distillate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="60plconctmr">
+	<TEXT ID="60plconctmr_one">
+	<TEXTVALUE>Place the beaker below the conductivity cell and dip the electrode into the solution,</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="60plconctmr_two">
+	<TEXTVALUE>Read the conductivity of the soil sample directly from the conductivity meter.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
