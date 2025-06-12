@@ -2,38 +2,38 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which of the following has the lowest electrical conductivity?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Salinity",
+        "b": "Silt",
+        "c": "Sand",
+        "d": "Clay"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Salinity generally increases conductivity due to dissolved ions.",
+        "b": "Silt has moderate conductivity due to fine particles.",
+        "c": "Sand has the lowest conductivity due to large particles and poor ion retention.",
+        "d": "Clay usually has high conductivity due to high cation exchange capacity."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "The equivalence of 1 atmosphere osmotic pressure in millimhos/cm electrical conductivity is…",
+      "answers": {
+        "a": "3.49 mmhos/cm",
+        "b": "2.21 mmhos/cm",
+        "c": "2.78 mmhos/cm",
+        "d": "3.28 mmhos/cm"
+      },
+      "explanations": {
+        "a": "Incorrect, too high.",
+        "b": "Incorrect, too low.",
+        "c": "Correct value for 1 atmosphere osmotic pressure equivalence.",
+        "d": "Close, but not the standard value."
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
     }
   ]
 }
