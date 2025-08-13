@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which of the following has the lowest electrical conductivity?",
+      "answers": {
+        "a": "Salinity",
+        "b": "Silt",
+        "c": "Sand",
+        "d": "Clay"
+      },
+      "explanations": {
+        "a": "Salinity generally increases conductivity due to dissolved ions.",
+        "b": "Silt has moderate conductivity due to fine particles.",
+        "c": "Sand has the lowest conductivity due to large particles and poor ion retention.",
+        "d": "Clay usually has high conductivity due to high cation exchange capacity."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The equivalence of 1 atmosphere osmotic pressure in millimhos/cm electrical conductivity is…",
+      "answers": {
+        "a": "3.49 mmhos/cm",
+        "b": "2.21 mmhos/cm",
+        "c": "2.78 mmhos/cm",
+        "d": "3.28 mmhos/cm"
+      },
+      "explanations": {
+        "a": "Incorrect, too high.",
+        "b": "Incorrect, too low.",
+        "c": "Correct value for 1 atmosphere osmotic pressure equivalence.",
+        "d": "Close, but not the standard value."
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Soils containing large amount of Lumic materials are",
+      "answers": {
+        "a": "Neutral",
+        "b": "Basic",
+        "c": "Amphorteric",
+        "d": "Acidic"
+      },
+      "explanations": {
+        "a": "Lumic materials influence pH but don't always make soil neutral.",
+        "b": "Not necessarily basic.",
+        "c": "Correct, Lumic materials can act as both acids and bases.",
+        "d": "Incorrect, not necessarily acidic."
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "An example of soil sediment is",
+      "answers": {
+        "a": "NH₄⁺",
+        "b": "CaCO₃",
+        "c": "Pd",
+        "d": "NO₃⁻"
+      },
+      "explanations": {
+        "a": "Ammonium is a nutrient ion, not a sediment.",
+        "b": "Correct, CaCO₃ is a common soil sediment (lime).",
+        "c": "Palladium is not typically found in soils.",
+        "d": "Nitrate is a dissolved ion, not a sediment."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Soil Electrical Conductivity is commonly expressed in",
+      "answers": {
+        "a": "Siemen",
+        "b": "millimhos per cm",
+        "c": "milli Siemens per meter",
+        "d": "ohms per meter"
+      },
+      "explanations": {
+        "a": "Incorrect, 'Siemen' is not commonly used in this context.",
+        "b": "Correct, traditional unit for soil EC.",
+        "c": "Also used, but less commonly in soil science.",
+        "d": "Ohms per meter is a unit of resistance, not conductivity."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
